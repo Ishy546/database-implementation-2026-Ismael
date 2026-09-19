@@ -14,5 +14,7 @@ FROM Customer;
 |---|---|---|
 | CustomerID | INT | Unique identifier for each customer |
 | CustomerName | VARCHAR(100) | Full name of the customer |
+
 [My GitHub Profile](https://github.com/Ishy546)
+
 This assignment is **useful** for learning *technical documentation* with `Markdown`.
